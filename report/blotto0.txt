@@ -1,0 +1,202 @@
+This simulation prints out the best strategy at each generation
+Using payoffs  4   0   1   5
+########### Generation 0  started
+Best Strategy:  [2, 2, 3, 4, 6, 7, 11, 14, 15, 36]
+########### Generation 1  started
+Best Strategy:  [1, 3, 4, 5, 6, 10, 14, 16, 20, 21]
+########### Generation 2  started
+Best Strategy:  [1, 3, 6, 9, 10, 11, 14, 14, 15, 17]
+########### Generation 3  started
+Best Strategy:  [2, 5, 7, 7, 9, 9, 10, 14, 16, 21]
+########### Generation 4  started
+Best Strategy:  [0, 2, 5, 6, 8, 9, 14, 15, 20, 21]
+########### Generation 5  started
+Best Strategy:  [0, 3, 5, 6, 6, 9, 11, 19, 19, 22]
+########### Generation 6  started
+Best Strategy:  [1, 2, 3, 4, 4, 5, 8, 11, 17, 45]
+########### Generation 7  started
+Best Strategy:  [1, 1, 3, 4, 7, 9, 9, 20, 20, 26]
+########### Generation 8  started
+Best Strategy:  [2, 5, 6, 8, 8, 9, 10, 11, 17, 24]
+########### Generation 9  started
+Best Strategy:  [1, 1, 4, 8, 12, 12, 14, 14, 17, 17]
+########### Generation 10  started
+Best Strategy:  [1, 2, 3, 5, 6, 6, 7, 18, 18, 34]
+########### Generation 11  started
+Best Strategy:  [2, 4, 4, 5, 6, 6, 6, 7, 15, 45]
+########### Generation 12  started
+Best Strategy:  [2, 2, 3, 4, 8, 9, 13, 13, 13, 33]
+########### Generation 13  started
+Best Strategy:  [3, 3, 6, 8, 9, 10, 10, 14, 16, 21]
+########### Generation 14  started
+Best Strategy:  [1, 1, 5, 5, 7, 10, 11, 19, 19, 22]
+########### Generation 15  started
+Best Strategy:  [1, 3, 5, 7, 8, 8, 10, 12, 12, 34]
+########### Generation 16  started
+Best Strategy:  [0, 0, 7, 7, 9, 11, 13, 13, 14, 26]
+########### Generation 17  started
+Best Strategy:  [0, 1, 3, 8, 9, 9, 10, 11, 24, 25]
+########### Generation 18  started
+Best Strategy:  [2, 5, 6, 9, 9, 11, 11, 12, 16, 19]
+########### Generation 19  started
+Best Strategy:  [0, 4, 5, 6, 8, 9, 14, 15, 18, 21]
+########### Generation 20  started
+Best Strategy:  [1, 1, 2, 5, 8, 11, 13, 17, 19, 23]
+########### Generation 21  started
+Best Strategy:  [1, 2, 2, 2, 8, 9, 11, 20, 21, 24]
+########### Generation 22  started
+Best Strategy:  [1, 3, 4, 5, 5, 6, 10, 19, 21, 26]
+########### Generation 23  started
+Best Strategy:  [0, 4, 5, 5, 8, 8, 10, 17, 18, 25]
+########### Generation 24  started
+Best Strategy:  [2, 2, 3, 4, 5, 6, 7, 17, 20, 34]
+########### Generation 25  started
+Best Strategy:  [0, 4, 5, 8, 9, 9, 13, 13, 19, 20]
+########### Generation 26  started
+Best Strategy:  [1, 5, 6, 7, 7, 8, 12, 12, 16, 26]
+########### Generation 27  started
+Best Strategy:  [1, 2, 2, 3, 7, 9, 13, 19, 21, 23]
+########### Generation 28  started
+Best Strategy:  [4, 4, 6, 8, 10, 10, 12, 12, 15, 19]
+########### Generation 29  started
+Best Strategy:  [1, 3, 3, 4, 4, 5, 8, 17, 24, 31]
+########### Generation 30  started
+Best Strategy:  [0, 3, 4, 5, 10, 13, 13, 14, 18, 20]
+########### Generation 31  started
+Best Strategy:  [2, 4, 4, 4, 10, 10, 14, 16, 18, 18]
+########### Generation 32  started
+Best Strategy:  [0, 1, 4, 5, 5, 6, 12, 13, 26, 28]
+########### Generation 33  started
+Best Strategy:  [2, 2, 3, 4, 9, 11, 13, 15, 19, 22]
+########### Generation 34  started
+Best Strategy:  [0, 2, 5, 6, 7, 7, 9, 17, 18, 29]
+########### Generation 35  started
+Best Strategy:  [3, 4, 4, 5, 5, 8, 8, 10, 19, 34]
+########### Generation 36  started
+Best Strategy:  [3, 4, 5, 5, 9, 12, 13, 14, 17, 18]
+########### Generation 37  started
+Best Strategy:  [2, 3, 4, 5, 6, 7, 8, 8, 17, 40]
+########### Generation 38  started
+Best Strategy:  [0, 0, 4, 8, 11, 12, 12, 14, 15, 24]
+########### Generation 39  started
+Best Strategy:  [0, 1, 2, 2, 3, 10, 16, 17, 24, 25]
+########### Generation 40  started
+Best Strategy:  [3, 5, 6, 10, 10, 10, 11, 12, 16, 17]
+########### Generation 41  started
+Best Strategy:  [1, 3, 5, 6, 6, 11, 12, 17, 19, 20]
+########### Generation 42  started
+Best Strategy:  [2, 2, 3, 4, 6, 6, 13, 18, 19, 27]
+########### Generation 43  started
+Best Strategy:  [2, 2, 6, 7, 7, 10, 13, 13, 15, 25]
+########### Generation 44  started
+Best Strategy:  [0, 4, 5, 6, 7, 10, 15, 16, 17, 20]
+########### Generation 45  started
+Best Strategy:  [1, 3, 4, 5, 9, 12, 14, 15, 16, 21]
+########### Generation 46  started
+Best Strategy:  [1, 2, 4, 6, 6, 8, 13, 17, 19, 24]
+########### Generation 47  started
+Best Strategy:  [2, 3, 5, 5, 5, 8, 13, 13, 19, 27]
+########### Generation 48  started
+Best Strategy:  [0, 1, 2, 6, 7, 9, 9, 16, 21, 29]
+########### Generation 49  started
+Best Strategy:  [1, 1, 3, 4, 4, 6, 7, 19, 20, 35]
+########### Generation 50  started
+Best Strategy:  [1, 2, 4, 5, 11, 11, 12, 15, 17, 22]
+########### Generation 51  started
+Best Strategy:  [0, 1, 3, 6, 7, 9, 14, 16, 21, 23]
+########### Generation 52  started
+Best Strategy:  [2, 2, 2, 5, 6, 9, 13, 18, 20, 23]
+########### Generation 53  started
+Best Strategy:  [0, 1, 3, 4, 4, 5, 15, 19, 21, 28]
+########### Generation 54  started
+Best Strategy:  [1, 4, 4, 6, 7, 10, 13, 15, 18, 22]
+########### Generation 55  started
+Best Strategy:  [1, 5, 6, 6, 7, 11, 11, 14, 17, 22]
+########### Generation 56  started
+Best Strategy:  [1, 2, 2, 5, 5, 6, 8, 18, 26, 27]
+########### Generation 57  started
+Best Strategy:  [0, 1, 4, 6, 7, 8, 9, 12, 17, 36]
+########### Generation 58  started
+Best Strategy:  [1, 1, 3, 4, 8, 9, 10, 11, 14, 39]
+########### Generation 59  started
+Best Strategy:  [1, 2, 3, 3, 8, 9, 14, 17, 18, 25]
+########### Generation 60  started
+Best Strategy:  [1, 2, 6, 7, 8, 10, 12, 15, 18, 21]
+########### Generation 61  started
+Best Strategy:  [2, 3, 3, 5, 8, 8, 10, 12, 14, 35]
+########### Generation 62  started
+Best Strategy:  [3, 6, 6, 7, 7, 7, 11, 12, 17, 24]
+########### Generation 63  started
+Best Strategy:  [2, 2, 3, 8, 9, 9, 11, 13, 15, 28]
+########### Generation 64  started
+Best Strategy:  [1, 2, 3, 4, 8, 9, 11, 15, 23, 24]
+########### Generation 65  started
+Best Strategy:  [0, 2, 6, 6, 7, 8, 9, 11, 24, 27]
+########### Generation 66  started
+Best Strategy:  [1, 2, 4, 5, 11, 12, 14, 14, 16, 21]
+########### Generation 67  started
+Best Strategy:  [3, 4, 5, 8, 10, 11, 11, 12, 16, 20]
+########### Generation 68  started
+Best Strategy:  [0, 1, 7, 8, 9, 9, 11, 16, 18, 21]
+########### Generation 69  started
+Best Strategy:  [1, 2, 3, 5, 6, 9, 12, 20, 20, 22]
+########### Generation 70  started
+Best Strategy:  [0, 3, 6, 7, 8, 10, 12, 13, 19, 22]
+########### Generation 71  started
+Best Strategy:  [2, 3, 5, 6, 8, 10, 10, 11, 12, 33]
+########### Generation 72  started
+Best Strategy:  [2, 2, 4, 4, 9, 13, 14, 17, 17, 18]
+########### Generation 73  started
+Best Strategy:  [1, 1, 3, 5, 9, 14, 15, 16, 16, 20]
+########### Generation 74  started
+Best Strategy:  [3, 4, 6, 8, 12, 12, 13, 13, 13, 16]
+########### Generation 75  started
+Best Strategy:  [2, 3, 3, 7, 8, 11, 12, 13, 18, 23]
+########### Generation 76  started
+Best Strategy:  [0, 1, 3, 4, 7, 7, 8, 14, 24, 32]
+########### Generation 77  started
+Best Strategy:  [1, 7, 8, 8, 8, 9, 10, 10, 14, 25]
+########### Generation 78  started
+Best Strategy:  [2, 5, 9, 10, 10, 10, 10, 12, 14, 18]
+########### Generation 79  started
+Best Strategy:  [0, 2, 4, 4, 12, 12, 14, 15, 16, 21]
+########### Generation 80  started
+Best Strategy:  [1, 4, 5, 5, 6, 11, 11, 14, 15, 28]
+########### Generation 81  started
+Best Strategy:  [1, 1, 3, 4, 5, 10, 13, 15, 16, 32]
+########### Generation 82  started
+Best Strategy:  [1, 3, 6, 8, 11, 11, 11, 13, 16, 20]
+########### Generation 83  started
+Best Strategy:  [0, 1, 2, 2, 5, 7, 11, 13, 23, 36]
+########### Generation 84  started
+Best Strategy:  [0, 1, 5, 6, 7, 11, 16, 16, 19, 19]
+########### Generation 85  started
+Best Strategy:  [3, 5, 7, 7, 8, 10, 10, 11, 14, 25]
+########### Generation 86  started
+Best Strategy:  [3, 3, 4, 8, 8, 9, 10, 13, 13, 29]
+########### Generation 87  started
+Best Strategy:  [0, 3, 3, 4, 8, 12, 13, 13, 20, 24]
+########### Generation 88  started
+Best Strategy:  [2, 5, 5, 5, 9, 11, 13, 14, 14, 22]
+########### Generation 89  started
+Best Strategy:  [2, 3, 4, 5, 5, 11, 12, 14, 20, 24]
+########### Generation 90  started
+Best Strategy:  [3, 4, 4, 6, 6, 11, 11, 11, 20, 24]
+########### Generation 91  started
+Best Strategy:  [2, 2, 2, 4, 4, 11, 13, 15, 23, 24]
+########### Generation 92  started
+Best Strategy:  [3, 3, 3, 5, 9, 10, 12, 13, 16, 26]
+########### Generation 93  started
+Best Strategy:  [2, 3, 5, 7, 9, 10, 13, 13, 19, 19]
+########### Generation 94  started
+Best Strategy:  [2, 4, 6, 6, 9, 9, 10, 16, 19, 19]
+########### Generation 95  started
+Best Strategy:  [2, 3, 6, 7, 9, 11, 12, 13, 15, 22]
+########### Generation 96  started
+Best Strategy:  [0, 1, 4, 5, 7, 9, 11, 13, 23, 27]
+########### Generation 97  started
+Best Strategy:  [2, 2, 4, 5, 7, 8, 8, 10, 12, 42]
+########### Generation 98  started
+Best Strategy:  [1, 3, 5, 5, 6, 11, 12, 13, 22, 22]
+########### Generation 99  started
+Best Strategy:  [0, 1, 2, 4, 5, 9, 14, 15, 21, 29]

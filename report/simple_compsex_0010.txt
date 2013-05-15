@@ -1,0 +1,507 @@
+This simulation prints out the best strategy at each generation
+Using payoffs  0   0   1   0
+Using Evolution type ComplexSex
+########### Generation 0  started
+Best Strategy: 
+P(cooperate|defect) =  0.561525021744
+P(cooperate|cooperate) =  0.416410328539
+20 190
+########### Generation 1  started
+Best Strategy: 
+P(cooperate|defect) =  0.423789884757
+P(cooperate|cooperate) =  0.265006183299
+20 190
+########### Generation 2  started
+Best Strategy: 
+P(cooperate|defect) =  0.294487816087
+P(cooperate|cooperate) =  0.310348877794
+20 190
+########### Generation 3  started
+Best Strategy: 
+P(cooperate|defect) =  0.290246300345
+P(cooperate|cooperate) =  0.260487668884
+20 190
+########### Generation 4  started
+Best Strategy: 
+P(cooperate|defect) =  0.315330645053
+P(cooperate|cooperate) =  0.209118364706
+20 190
+########### Generation 5  started
+Best Strategy: 
+P(cooperate|defect) =  0.304016111107
+P(cooperate|cooperate) =  0.207568812284
+20 190
+########### Generation 6  started
+Best Strategy: 
+P(cooperate|defect) =  0.302718756956
+P(cooperate|cooperate) =  0.220804576278
+20 190
+########### Generation 7  started
+Best Strategy: 
+P(cooperate|defect) =  0.30512582826
+P(cooperate|cooperate) =  0.221720036748
+20 190
+########### Generation 8  started
+Best Strategy: 
+P(cooperate|defect) =  0.303725751167
+P(cooperate|cooperate) =  0.227321197362
+20 190
+########### Generation 9  started
+Best Strategy: 
+P(cooperate|defect) =  0.305102200345
+P(cooperate|cooperate) =  0.219569618802
+20 190
+########### Generation 10  started
+Best Strategy: 
+P(cooperate|defect) =  0.305400885976
+P(cooperate|cooperate) =  0.220672954047
+20 190
+########### Generation 11  started
+Best Strategy: 
+P(cooperate|defect) =  0.286580679929
+P(cooperate|cooperate) =  0.170058383763
+20 190
+########### Generation 12  started
+Best Strategy: 
+P(cooperate|defect) =  0.295344360812
+P(cooperate|cooperate) =  0.195901219654
+20 190
+########### Generation 13  started
+Best Strategy: 
+P(cooperate|defect) =  0.29530357444
+P(cooperate|cooperate) =  0.196028593973
+20 190
+########### Generation 14  started
+Best Strategy: 
+P(cooperate|defect) =  0.305874019587
+P(cooperate|cooperate) =  0.185076671165
+20 190
+########### Generation 15  started
+Best Strategy: 
+P(cooperate|defect) =  0.299186360349
+P(cooperate|cooperate) =  0.197184693998
+20 190
+########### Generation 16  started
+Best Strategy: 
+P(cooperate|defect) =  0.302468008363
+P(cooperate|cooperate) =  0.19609492412
+20 190
+########### Generation 17  started
+Best Strategy: 
+P(cooperate|defect) =  0.301568858902
+P(cooperate|cooperate) =  0.198237850568
+20 190
+########### Generation 18  started
+Best Strategy: 
+P(cooperate|defect) =  0.30110221948
+P(cooperate|cooperate) =  0.198525705804
+20 190
+########### Generation 19  started
+Best Strategy: 
+P(cooperate|defect) =  0.299929572878
+P(cooperate|cooperate) =  0.198367553514
+20 190
+########### Generation 20  started
+Best Strategy: 
+P(cooperate|defect) =  0.299720490052
+P(cooperate|cooperate) =  0.199087913906
+20 190
+########### Generation 21  started
+Best Strategy: 
+P(cooperate|defect) =  0.300017825662
+P(cooperate|cooperate) =  0.199598389327
+20 190
+########### Generation 22  started
+Best Strategy: 
+P(cooperate|defect) =  0.300079537884
+P(cooperate|cooperate) =  0.199332788569
+20 190
+########### Generation 23  started
+Best Strategy: 
+P(cooperate|defect) =  0.300205815988
+P(cooperate|cooperate) =  0.199196955727
+20 190
+########### Generation 24  started
+Best Strategy: 
+P(cooperate|defect) =  0.300016443704
+P(cooperate|cooperate) =  0.199079904967
+20 190
+########### Generation 25  started
+Best Strategy: 
+P(cooperate|defect) =  0.300027527277
+P(cooperate|cooperate) =  0.199096416352
+20 190
+########### Generation 26  started
+Best Strategy: 
+P(cooperate|defect) =  0.300070810819
+P(cooperate|cooperate) =  0.199111920312
+20 190
+########### Generation 27  started
+Best Strategy: 
+P(cooperate|defect) =  0.300042350052
+P(cooperate|cooperate) =  0.199110647879
+20 190
+########### Generation 28  started
+Best Strategy: 
+P(cooperate|defect) =  0.304135826427
+P(cooperate|cooperate) =  0.208194465663
+20 190
+########### Generation 29  started
+Best Strategy: 
+P(cooperate|defect) =  0.304543755481
+P(cooperate|cooperate) =  0.210045379433
+20 190
+########### Generation 30  started
+Best Strategy: 
+P(cooperate|defect) =  0.304640648741
+P(cooperate|cooperate) =  0.209931263816
+20 190
+########### Generation 31  started
+Best Strategy: 
+P(cooperate|defect) =  0.305098824205
+P(cooperate|cooperate) =  0.211042064875
+20 190
+########### Generation 32  started
+Best Strategy: 
+P(cooperate|defect) =  0.304508337365
+P(cooperate|cooperate) =  0.209510616291
+20 190
+########### Generation 33  started
+Best Strategy: 
+P(cooperate|defect) =  0.304426420424
+P(cooperate|cooperate) =  0.209399247672
+20 190
+########### Generation 34  started
+Best Strategy: 
+P(cooperate|defect) =  0.30442461808
+P(cooperate|cooperate) =  0.209380164453
+20 190
+########### Generation 35  started
+Best Strategy: 
+P(cooperate|defect) =  0.304324474414
+P(cooperate|cooperate) =  0.209156503382
+20 190
+########### Generation 36  started
+Best Strategy: 
+P(cooperate|defect) =  0.304503850098
+P(cooperate|cooperate) =  0.209599605086
+20 190
+########### Generation 37  started
+Best Strategy: 
+P(cooperate|defect) =  0.304419887395
+P(cooperate|cooperate) =  0.209380851791
+20 190
+########### Generation 38  started
+Best Strategy: 
+P(cooperate|defect) =  0.304402716226
+P(cooperate|cooperate) =  0.209346271076
+20 190
+########### Generation 39  started
+Best Strategy: 
+P(cooperate|defect) =  0.304410566683
+P(cooperate|cooperate) =  0.20936308734
+20 190
+########### Generation 40  started
+Best Strategy: 
+P(cooperate|defect) =  0.304412447278
+P(cooperate|cooperate) =  0.209365609306
+20 190
+########### Generation 41  started
+Best Strategy: 
+P(cooperate|defect) =  0.304404970998
+P(cooperate|cooperate) =  0.209350238175
+20 190
+########### Generation 42  started
+Best Strategy: 
+P(cooperate|defect) =  0.304406075723
+P(cooperate|cooperate) =  0.209351486363
+20 190
+########### Generation 43  started
+Best Strategy: 
+P(cooperate|defect) =  0.304406153476
+P(cooperate|cooperate) =  0.209352630271
+20 190
+########### Generation 44  started
+Best Strategy: 
+P(cooperate|defect) =  0.298152403125
+P(cooperate|cooperate) =  0.165708495454
+20 190
+########### Generation 45  started
+Best Strategy: 
+P(cooperate|defect) =  0.304407378017
+P(cooperate|cooperate) =  0.209354869338
+20 190
+########### Generation 46  started
+Best Strategy: 
+P(cooperate|defect) =  0.304407002058
+P(cooperate|cooperate) =  0.209354024022
+20 190
+########### Generation 47  started
+Best Strategy: 
+P(cooperate|defect) =  0.303482379371
+P(cooperate|cooperate) =  0.20699317248
+20 190
+########### Generation 48  started
+Best Strategy: 
+P(cooperate|defect) =  0.303507760489
+P(cooperate|cooperate) =  0.207057750536
+20 190
+########### Generation 49  started
+Best Strategy: 
+P(cooperate|defect) =  0.303233197488
+P(cooperate|cooperate) =  0.206359613712
+20 190
+########### Generation 50  started
+Best Strategy: 
+P(cooperate|defect) =  0.303604010219
+P(cooperate|cooperate) =  0.207302879261
+20 190
+########### Generation 51  started
+Best Strategy: 
+P(cooperate|defect) =  0.303373327897
+P(cooperate|cooperate) =  0.206715778816
+20 190
+########### Generation 52  started
+Best Strategy: 
+P(cooperate|defect) =  0.30345089127
+P(cooperate|cooperate) =  0.206913064001
+20 190
+########### Generation 53  started
+Best Strategy: 
+P(cooperate|defect) =  0.303642314527
+P(cooperate|cooperate) =  0.207400440704
+20 190
+########### Generation 54  started
+Best Strategy: 
+P(cooperate|defect) =  0.303457183047
+P(cooperate|cooperate) =  0.206929072381
+20 190
+########### Generation 55  started
+Best Strategy: 
+P(cooperate|defect) =  0.303510956788
+P(cooperate|cooperate) =  0.207065922271
+20 190
+########### Generation 56  started
+Best Strategy: 
+P(cooperate|defect) =  0.303545985995
+P(cooperate|cooperate) =  0.207155098507
+20 190
+########### Generation 57  started
+Best Strategy: 
+P(cooperate|defect) =  0.303505042456
+P(cooperate|cooperate) =  0.207050869324
+20 190
+########### Generation 58  started
+Best Strategy: 
+P(cooperate|defect) =  0.303505876025
+P(cooperate|cooperate) =  0.207052991171
+20 190
+########### Generation 59  started
+Best Strategy: 
+P(cooperate|defect) =  0.303519018021
+P(cooperate|cooperate) =  0.207086444192
+20 190
+########### Generation 60  started
+Best Strategy: 
+P(cooperate|defect) =  0.304662707493
+P(cooperate|cooperate) =  0.190170057057
+20 190
+########### Generation 61  started
+Best Strategy: 
+P(cooperate|defect) =  0.303516352493
+P(cooperate|cooperate) =  0.207079658608
+20 190
+########### Generation 62  started
+Best Strategy: 
+P(cooperate|defect) =  0.30424296863
+P(cooperate|cooperate) =  0.19953416331
+20 190
+########### Generation 63  started
+Best Strategy: 
+P(cooperate|defect) =  0.304099154796
+P(cooperate|cooperate) =  0.198377384611
+20 190
+########### Generation 64  started
+Best Strategy: 
+P(cooperate|defect) =  0.304243006376
+P(cooperate|cooperate) =  0.196254943093
+20 190
+########### Generation 65  started
+Best Strategy: 
+P(cooperate|defect) =  0.300310722424
+P(cooperate|cooperate) =  0.195945198714
+20 190
+########### Generation 66  started
+Best Strategy: 
+P(cooperate|defect) =  0.300158940903
+P(cooperate|cooperate) =  0.198980090079
+20 190
+########### Generation 67  started
+Best Strategy: 
+P(cooperate|defect) =  0.302005730071
+P(cooperate|cooperate) =  0.200234697753
+20 190
+########### Generation 68  started
+Best Strategy: 
+P(cooperate|defect) =  0.300845625183
+P(cooperate|cooperate) =  0.199479616848
+20 190
+########### Generation 69  started
+Best Strategy: 
+P(cooperate|defect) =  0.301065134158
+P(cooperate|cooperate) =  0.199589424757
+20 190
+########### Generation 70  started
+Best Strategy: 
+P(cooperate|defect) =  0.301051170118
+P(cooperate|cooperate) =  0.199626126546
+20 190
+########### Generation 71  started
+Best Strategy: 
+P(cooperate|defect) =  0.300994610959
+P(cooperate|cooperate) =  0.199686019109
+20 190
+########### Generation 72  started
+Best Strategy: 
+P(cooperate|defect) =  0.300999297806
+P(cooperate|cooperate) =  0.199204550027
+20 190
+########### Generation 73  started
+Best Strategy: 
+P(cooperate|defect) =  0.300952416589
+P(cooperate|cooperate) =  0.199343119456
+20 190
+########### Generation 74  started
+Best Strategy: 
+P(cooperate|defect) =  0.300975426706
+P(cooperate|cooperate) =  0.199400470448
+20 190
+########### Generation 75  started
+Best Strategy: 
+P(cooperate|defect) =  0.300962553402
+P(cooperate|cooperate) =  0.19948206605
+20 190
+########### Generation 76  started
+Best Strategy: 
+P(cooperate|defect) =  0.300958656103
+P(cooperate|cooperate) =  0.19945741861
+20 190
+########### Generation 77  started
+Best Strategy: 
+P(cooperate|defect) =  0.300960645302
+P(cooperate|cooperate) =  0.199403825813
+20 190
+########### Generation 78  started
+Best Strategy: 
+P(cooperate|defect) =  0.300963129985
+P(cooperate|cooperate) =  0.19943146426
+20 190
+########### Generation 79  started
+Best Strategy: 
+P(cooperate|defect) =  0.300968118327
+P(cooperate|cooperate) =  0.199425034389
+20 190
+########### Generation 80  started
+Best Strategy: 
+P(cooperate|defect) =  0.300968104342
+P(cooperate|cooperate) =  0.199446101188
+20 190
+########### Generation 81  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967781682
+P(cooperate|cooperate) =  0.199431901229
+20 190
+########### Generation 82  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967156552
+P(cooperate|cooperate) =  0.199432873493
+20 190
+########### Generation 83  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967425207
+P(cooperate|cooperate) =  0.199434862345
+20 190
+########### Generation 84  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967470223
+P(cooperate|cooperate) =  0.199436026299
+20 190
+########### Generation 85  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967369692
+P(cooperate|cooperate) =  0.199435360384
+20 190
+########### Generation 86  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967442558
+P(cooperate|cooperate) =  0.199435783477
+20 190
+########### Generation 87  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967426436
+P(cooperate|cooperate) =  0.19943629724
+20 190
+########### Generation 88  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967462738
+P(cooperate|cooperate) =  0.199435997715
+20 190
+########### Generation 89  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967443476
+P(cooperate|cooperate) =  0.199435879942
+20 190
+########### Generation 90  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967440996
+P(cooperate|cooperate) =  0.199435970106
+20 190
+########### Generation 91  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967436985
+P(cooperate|cooperate) =  0.199435792052
+20 190
+########### Generation 92  started
+Best Strategy: 
+P(cooperate|defect) =  0.3009674387
+P(cooperate|cooperate) =  0.19943586303
+20 190
+########### Generation 93  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967439629
+P(cooperate|cooperate) =  0.199435872865
+20 190
+########### Generation 94  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967439949
+P(cooperate|cooperate) =  0.199435889919
+20 190
+########### Generation 95  started
+Best Strategy: 
+P(cooperate|defect) =  0.300967438911
+P(cooperate|cooperate) =  0.19943586887
+20 190
+########### Generation 96  started
+Best Strategy: 
+P(cooperate|defect) =  0.299797148542
+P(cooperate|cooperate) =  0.199181653455
+20 190
+########### Generation 97  started
+Best Strategy: 
+P(cooperate|defect) =  0.301450710394
+P(cooperate|cooperate) =  0.205831521455
+20 190
+########### Generation 98  started
+Best Strategy: 
+P(cooperate|defect) =  0.301182518783
+P(cooperate|cooperate) =  0.202688867598
+20 190
+########### Generation 99  started
+Best Strategy: 
+P(cooperate|defect) =  0.300975100818
+P(cooperate|cooperate) =  0.203137080789
+20 190
+The simple approach only looks at the last move. 
+We print out the probability 
+that we cooperate given that the opponent just cooperated and the 
+probability that we cooperate given that the opponent just defected

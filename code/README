@@ -1,0 +1,23 @@
+Runs Prisoner's Dilemma experiments and other tournament games.
+The simple command-line interface to run the experiment is as follows:
+
+python main.py {player} [evoltype] [cc] [cd] [dd] [dc]
+
+The attributes in {} are required attributes, the [] attributes are
+optional.
+
+For {player}, you can run Prisoner's Dilemma with player types
+'simple', 'nmoves' (which store 1 move and n moves respectively, default
+is n = 4), or 'mixed', to run a tournament with a combination of these
+players, or a Blotto tournament with 'blotto' as the argument.
+
+The attribute [evoltype] is optional, defaulting to SimpleEvolution if no
+argument is specified. This argument can take type 'simpleevol' for
+SimpleEvolution, 'simplesex' for SimpleSex, and 'complex' for ComplexSex.
+The [evoltype] argument cannot be used with 'mixed' and 'blotto'.
+
+The [cc], [cd], [cd], [dd] arguments are for the payoff matrix in the
+Prisoner's Dilemma. Basically, 'c' stands for 'cooperate' and 'd' stands
+for 'defect', and the argument specifies the payoff if you make the decision
+specified by the first letter and the other player makes the decision
+specified by the second letter.
